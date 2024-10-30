@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alex-Seda.
 - 👀 I’m interested in software development and cybersecurity.
-- 🌱 I’m currently learning Haskell.
+- I am studying Computer Science at Oklahoma State University
 
 <!---
 Alex-Seda/Alex-Seda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
