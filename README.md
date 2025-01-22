@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alex-Seda.
-- 👀 I’m interested in software development and cybersecurity.
+- 👀 I’m interested in software development
 - I am studying Computer Science at Oklahoma State University
   
 - Connect with me at: https://linktr.ee/AlexanderSeda
