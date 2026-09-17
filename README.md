@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Alex-Seda.
-  
-- I am studying Computer Science at Oklahoma State University
-  
-- Connect with me at: https://linktr.ee/AlexanderSeda
+### Alex Seda
+Backend-focused developer | B.S. Computer Science, Oklahoma State University
 
-<!---
-Alex-Seda/Alex-Seda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Currently in medical IT support, building toward backend development. I work primarily in Python/Django, and handle my own deployment (Docker, Nginx, Linux server administration).
+
+**Projects**
+- **Seminar Registration System** (Django) — CRM, API endpoint, ORM-based reporting
+- Self-hosted infrastructure projects — VPS deployment, reverse proxy configuration, containerized services
+
+**Stack:** Python · Django · Docker · Nginx · Linux · PostgreSQL
+
+[Check out my personal website!](https://www.alexanderseda.com)
