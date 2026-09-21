@@ -9,4 +9,4 @@ Currently in medical IT support, building toward backend development. I work pri
 
 **Stack:** Python · Django · Docker · Nginx · Linux · PostgreSQL
 
-[Check out my personal website!](https://www.alexanderseda.com)
+[Check out my personal website!](https://alexanderseda.com)
